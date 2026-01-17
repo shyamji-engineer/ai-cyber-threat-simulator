@@ -45,7 +45,7 @@ The system operates in a rigorous linear pipeline:
 ### 2. Installation
 ```bash
 # 1. Clone the repository (if not already local)
-# git clone https://github.com/your-repo/ai-cyber-threat-simulator.git
+git clone https://github.com/your-repo/ai-cyber-threat-simulator.git
 cd ai-cyber-threat-simulator
 
 # 2. Install Python dependencies
